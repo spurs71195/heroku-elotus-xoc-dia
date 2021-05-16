@@ -62,7 +62,7 @@ body {
 }
 
 canvas {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(120, 0, 0, 255);
 }
 
 a:link, a:visited {
@@ -87,19 +87,20 @@ p.footer {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #171717 url(./splash.85cfd.png) no-repeat center;
-  background-size: 45%;
+  background: #781212 url(./splash.06d0d.png) no-repeat center;
+  background-size: min(70vw, 50vh);
 }
 
 .progress-bar {
     position: absolute;
     left: 27.5%;
     top: 80%;
-    height: 3px;
+    height: 8px;
     padding: 2px;
     width: 45%;
     border-radius: 7px;
-    box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;           
+    box-shadow: 0 1px 1px #000 inset, 0 1px 0 #444;     
+	background-color: #160602;
 }
 
 .progress-bar span {
@@ -107,7 +108,7 @@ p.footer {
     height: 100%;
     border-radius: 3px;
     transition: width .4s ease-in-out;
-    background-color: #3dc5de;
+    background-color: #c68b33;
 }
 
 .stripes span {
