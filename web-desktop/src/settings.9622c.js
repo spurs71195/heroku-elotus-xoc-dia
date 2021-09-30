@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/dragon-tiger.fire",orientation:"portrait",jsList:["assets/scripts/protobuf/protobuf.69e0b.js"],bundleVers:{internal:"468ae",resources:"cfa35",main:"63332"}};
